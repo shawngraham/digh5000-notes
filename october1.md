@@ -6,4 +6,4 @@
 
 _these are italics_
 
-*this is bold*
+**this is bold**
